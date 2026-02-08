@@ -7,6 +7,7 @@ export default function Products() {
 
   return (
     <main
+      style={{
         minHeight: "100vh",
         background: "#0b0b0b",
         color: "white",
